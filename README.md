@@ -1,5 +1,6 @@
 # Quiz_Test
 Quiz_Test app (Read, Create questionary, survey or quiz)
+
 ------IMPORTANTE------
 L'app creata genera un file .db collegato al programma.
 Vengono inserite cinque domande predefinite se non vi è la presenza di alcun file .db.
